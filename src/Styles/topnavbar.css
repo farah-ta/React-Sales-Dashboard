@@ -1,0 +1,14 @@
+.searchbox
+{
+
+text-align:left; 
+
+}
+
+.rside
+{
+display:flex;
+gap: 2rem;
+margin-right: 31px;
+
+}
