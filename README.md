@@ -1,1 +1,2 @@
 # React-Sales-Dashboard
+The React Sales dashboard shows sales data of a ABC Company in a womnderful manner. I have used the map function to show country and person sales in the form of tables. As well as ReCharts are used to visualize data in the form of charts on the dashboards. The 4 top boxes about Country sales, countries etc. get the data from data file and then calculate to show it. The dashboard also uses Bootstrap components. I will also update it further.   
